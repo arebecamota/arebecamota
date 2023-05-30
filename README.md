@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD9C83&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ce47ff&height=120&section=header"/>
 <h2 align="center">Oii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Sou a Rebeca ;)</h2>
-<p align="center"><i>🖤 Eu realmente amo aprender sobre programação! 🖤</i></p>
+<p align="center"><i>💜 Eu realmente amo aprender sobre programação! 💜</i></p>
 
 <div style="display:inline_block"><br>
   <h3>👩‍💻 Sobre mim:</h3>
@@ -27,14 +27,13 @@
 <div >
   <h3>📊 Estatísticas GitHub</h3>
   <div top="20px">
-    <img width="52%" height="180px" src="https://github-readme-stats.vercel.app/api?username=arebecamota&show_icons=true&count_private=true&theme=omni" alt="Rebeca Mota github stats"/> 
-    <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arebecamota&layout=compact&theme=omni"/>
+    <img width="52%" height="180px" src="https://github-readme-stats.vercel.app/api?username=arebecamota&show_icons=true&count_private=true&theme=omni&title_color=ce47ff" alt="Rebeca Mota github stats"/> 
+    <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arebecamota&layout=compact&theme=omni&title_color=ce47ff"/>
   </div>
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD9C83&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ce47ff&height=120&section=footer"/>
   
-----
+---
   
-Credit: [arebecamota](https://github.com/arebecamota)
-Last edited on: 23/05/2023.
+Credit: [arebecamota](https://github.com/arebecamota) Last edited on: 23/05/2023.
